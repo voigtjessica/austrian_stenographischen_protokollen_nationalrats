@@ -1,0 +1,2 @@
+# austrian_stenographischen_protokollen_nationalrats
+Webscraping von die Österreichen Stenographischen Protokollen des Nationalrats
