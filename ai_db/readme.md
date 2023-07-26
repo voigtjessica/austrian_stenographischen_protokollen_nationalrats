@@ -1,1 +1,1 @@
-This folder will receive the files (speeches) that we filtered with AI/KI terms. However, we did not perform any analisys with these speeches, sincethey were not relevant
+This folder will receive the files (speeches) that we filtered with AI/KI terms. However, we did not perform any analisys with these speeches, sincethey were not relevant. I also did not upload it here because they are 6.367 elements. But if you run the script, this is where they will be saved.
